@@ -1,0 +1,29 @@
+{
+	"name": "react-graphql",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"server": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/momijigz/react-graphql.git"
+	},
+	"author": "Moazzam Khan",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/momijigz/react-graphql/issues"
+	},
+	"homepage": "https://github.com/momijigz/react-graphql#readme",
+	"dependencies": {
+		"axios": "^0.19.1",
+		"express": "^4.17.1",
+		"express-graphql": "^0.9.0",
+		"graphql": "^14.5.8"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.2"
+	}
+}
