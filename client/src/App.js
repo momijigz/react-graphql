@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div className="App">
-      GraphQL App
+      <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/spacex-logo.png" style={{ width: 300, display: 'block', margin: 'auto' }}></img>
     </div>
   );
 }
